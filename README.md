@@ -1,2 +1,2 @@
-# Awesome_recommended_courses
+# Awesome recommended courses
 Awesome Recommended Courses
